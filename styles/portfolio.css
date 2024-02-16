@@ -162,3 +162,13 @@ main {
   text-align: center;
   margin-top: 50px;
 }
+
+/* footer style  */
+
+footer {
+  display: flex;
+  background: #fff8f3;
+  justify-content: space-around;
+  padding: 130px 200px;
+  margin-top: 130px;
+}
